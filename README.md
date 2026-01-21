@@ -1,4 +1,4 @@
-# 📊 MyDashboard — Vue.js 3 (Jour 1)
+# 📊 MyDashboard — Vue.js 3
 
 ## 🧩 Description du projet
 
